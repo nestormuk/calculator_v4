@@ -1,0 +1,14 @@
+{
+  "title": "Calculator",
+  "home": "Home",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "contacts": "Contacts",
+  "editProfile": "Edit Profile",
+  "chooseProfilePhoto": "Choose Profile photo",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "clear": "CLEAR",
+  "equal": "=",
+  "sign_in_button": "Sign In"
+}

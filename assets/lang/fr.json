@@ -1,0 +1,14 @@
+{
+  "title": "Calculatrice",
+  "home": "Accueil",
+  "signIn": "Se connecter",
+  "signUp": "S'inscrire",
+  "contacts": "Contacts",
+  "editProfile": "Modifier le profil",
+  "chooseProfilePhoto": "Choisir une photo de profil",
+  "camera": "Appareil photo",
+  "gallery": "Galerie",
+  "clear": "EFFACER",
+  "equal": "=",
+  "sign_in_button": "Se connecter"
+}
